@@ -4,4 +4,7 @@
   "decimals": 6,
   "description": "Это тестовый токен в сети Solana.",
   "image": "https://w7.pngwing.com/pngs/729/646/png-transparent-three-number-3-digit-thumbnail.png"
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility Token" }
+  ]
 }
